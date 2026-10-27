@@ -13,4 +13,5 @@
 **Conclusion:** Evidence points to the president as the source of the leak. Confirming the final upload would require examining her devices and mail server logs.
 
 **Skills shown:** timeline reconstruction, metadata analysis, email artifact analysis, insider-threat investigation, evidence-based reporting
-[Forensics Case Study.docx](https://github.com/user-attachments/files/33996011/Forensics.Case.Study.docx)
+[Forensics Case Study.pdf](https://github.com/user-attachments/files/33996037/Forensics.Case.Study.pdf)
+
