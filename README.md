@@ -1,4 +1,4 @@
-# cybersecurity-portfolio
+# Cybersecurity-Portfolio
 
 Hands-on security work: digital forensics, SIEM log analysis, and detection labs.
 
